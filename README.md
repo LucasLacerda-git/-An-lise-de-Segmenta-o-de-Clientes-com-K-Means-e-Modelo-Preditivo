@@ -1,0 +1,2 @@
+# -An-lise-de-Segmenta-o-de-Clientes-com-K-Means-e-Modelo-Preditivo
+Limpeza de outliers e missing.  EDA avançada: Correlações entre renda, gastos (Plotly/Seaborn).  Segmentação com K-Means: Método Elbow e validação de silhueta para otimizar clusters.  Modelo preditivo: Classificação de novos clientes usando Random Forest (Scikit-learn).  Insights acionáveis: Recomendações para campanhas de marketing
